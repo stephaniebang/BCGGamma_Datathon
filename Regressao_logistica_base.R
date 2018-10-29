@@ -7,10 +7,6 @@ base = readRDS("base_final.rds")
 # então decidimos retirá-las.
 base_final = base %>% select(-cod_municipio, -Nome_Municipio.x, -Nome_Municipio.y,
                              -FLAG_REALIZOU_CONF_HAB, -FLAG_CONSELHO_TRANS,
-                             -disc_ling_estrangeira, -disc_ciencias, -disc_artes,
-                             -disc_ling_portuguesa, -disc_ciencias_humanas,
-                             -disc_educacao_fisica, -disc_ensino_religioso,
-                             -disc_hist_geo, -disc_matematica, 
                              -perc_banheiro_dentro_predio)
 
 # Escolhendo grupo de treino e grupo de teste

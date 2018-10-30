@@ -1,0 +1,5 @@
+As colunas da base "Base_Munic_Resumo" foram obtidas do seguinte site:
+
+https://www.ibge.gov.br/estatisticas-novoportal/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados
+
+Os valores das bases estão tratados, em que as respostas "Sim" foram transformadas em 1, e "Não" ou "-" foram transformadas em 0.

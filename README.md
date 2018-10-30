@@ -11,7 +11,7 @@ As bases de dados utilizadas foram:
 - Base_MUNIC_2017.xls
 
 As bases foram tratadas e unidas para montar uma base final na visão município.
-> A base Base_MUNIC_2017.xls foi obtida pelo IBGE, que pode ser encontrado no [site](https://www.ibge.gov.br/estatisticas-novoportal/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
+> A base Base_MUNIC_2017.xls foi obtida pelo IBGE, que pode ser encontrado no [site do IBGE](https://www.ibge.gov.br/estatisticas-novoportal/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
 
 > As bases Base_MUNIC_2017.xls e escolas20170101.csv foram modificadas para as bases Base_Munic_Resumo.xlsx e escolas20170101.csv, que podem ser encontradas no diretório  [data](https://github.com/stephaniebang/BCGGamma_Datathon/tree/master/data).
 
